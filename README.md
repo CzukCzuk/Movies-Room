@@ -31,10 +31,10 @@ TestRail, JIRA, Chrome DevTools
 
 # Environment
 Windows 10
-Chrome Version 111.0.5563.147
-Mozilla Firefox 111.0.1
-Opera Version 97.0.4719.17
-Microsoft Edge Version 111.0.1661.62
+Chrome Version 111.0.5563.147 <br>
+Mozilla Firefox 111.0.1 <br>
+Opera Version 97.0.4719.17 <br>
+Microsoft Edge Version 111.0.1661.62 <br>
 Safari Version 16.4
 
 
