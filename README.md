@@ -10,8 +10,8 @@ As for my Project, I decided to test some of the most important features and fun
 - Logging in
 - Writing a comment
 - Search Bar
-- Quizzes
-- Displaying on various Web Browsers
+- Quizzes and Rankings
+- Displaying on various Web Browsers and Devices
 - Visual and Functional aspects of: Main Page, Social Media Tab, Advertisement Tab, Personal Data Tab and Ranking.
 
 # Test Cases
