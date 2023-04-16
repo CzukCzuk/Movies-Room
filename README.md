@@ -34,7 +34,7 @@ Automation Scripts were written in Selenium IDE Version 3.17.2 and exported as J
 TestRail, JIRA, Chrome DevTools, Selenium IDE
 
 # Environment
-Windows 10
+Windows 10 Pro Version 22H2 <br>
 Chrome Version 111.0.5563.147 <br>
 Mozilla Firefox Version 111.0.1 <br>
 Opera Version 97.0.4719.17 <br>
