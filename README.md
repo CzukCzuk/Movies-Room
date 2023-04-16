@@ -26,8 +26,12 @@ Bug Reports were written in JIRA and saved in a .pdf format. Logs were registere
 
 Summary report was generated in TestRail and saved in a .pdf format.
 
+# Automation
+
+Automation Scripts were written in Selenium IDE Version 3.17.2 and exported as JavaScript in .spec format.
+
 # Tools:
-TestRail, JIRA, Chrome DevTools
+TestRail, JIRA, Chrome DevTools, Selenium IDE
 
 # Environment
 Windows 10
@@ -36,6 +40,7 @@ Mozilla Firefox Version 111.0.1 <br>
 Opera Version 97.0.4719.17 <br>
 Microsoft Edge Version 111.0.1661.62 <br>
 Safari Version 16.4
+
 
 
 
